@@ -1,0 +1,29 @@
+{
+  "name": "expressjs-config",
+  "version": "1.0.0",
+  "description": "xawapi expressjs config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EkoAdiWijayanto/expressjs-config.git"
+  },
+  "author": "Eko Adi Wijayanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EkoAdiWijayanto/expressjs-config/issues"
+  },
+  "homepage": "https://github.com/EkoAdiWijayanto/expressjs-config#readme",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "config": "^1.25.1",
+    "express": "^4.14.1",
+    "express-validator": "^3.1.2",
+    "express-winston-middleware": "^0.1.0",
+    "helmet": "^3.4.0",
+    "method-override": "^2.3.7",
+    "winston": "^2.3.1"
+  }
+}
